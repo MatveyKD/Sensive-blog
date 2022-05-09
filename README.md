@@ -1,6 +1,6 @@
-# Блог от Лизы
+# Sensive-blog
 
-Блог на Django, серверная часть.
+Sensive-blog на Django.
 
 ## Запуск
 
